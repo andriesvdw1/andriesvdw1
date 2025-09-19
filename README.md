@@ -19,6 +19,7 @@ PowerPoint was frequently used during studies for presentations of individual an
 Basic video editing using OpenShot video editor to cut and combine videos.
 Sqlite 3 & MySQL
 Figma (For the layout planning and prototyping of web applications)
+
 Some experience with ESP32 and Arduino programming and wiring of module boards. Creating graphics for the ST7735 1.8" Color TFT Display using the Adafruit GFX library.
 
 Previously I worked as a security system builder and installer. During that role I learned about combining electronics to create a solution for intruder detection on plots, farms and residential areas.
