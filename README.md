@@ -5,7 +5,7 @@ I am currently a final year student in diploma of information technology at Belg
 I am passionate about web development in ReactJS and software development in C#.NET.
 I am seeking an internship/graduate opportunity at a company in or around the Kempton Park and Pretoria area for the years 2025 or 2026.
 
-I am currently working on a group project that combines ESP32 microcontroller electronics with a front-end (user interface), a backend (that bridges the communication between the front-end and the database) and a MySQL database. 
+I am currently working on a group project as group leader that combines ESP32 microcontroller electronics with a front-end (user interface), a backend (that bridges the communication between the front-end and the database) and a MySQL database. 
 This project aims to help university athletics coaches to determine if athletes are overtraining or have low training performance levels. 
 
 Tools I am familiar with include:
