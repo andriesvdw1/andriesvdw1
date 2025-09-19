@@ -1,7 +1,7 @@
 ## Hi👋, I'm Andries van der Westhuizen
 #Portfolio website with CV document link: https://portfolio-andriesvdw1.netlify.app/
 
-I am currently a last year diploma in information technology student at Belgium Campus iTversity.
+I am currently a final year diploma in information technology student at Belgium Campus iTversity.
 I am passionate about web development in ReactJS and software development in C#.NET.
 I am seeking a internship/graduate opportunity at a company in or around the Kempton Park and Pretoria area. For the year 2025 or 2026.
 
