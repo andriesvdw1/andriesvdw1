@@ -11,11 +11,11 @@ Visual Studio Code
 Visual Studio 2022 Community Edition
 
 Skills:
-ReactJS, HTML5, CSS3, C#.NET, JAVA SE, Object Oriented Programming  
+ReactJS, HTML5, CSS3, C#.NET, Python, Object Oriented Programming  
 PowerPoint was frequently used during studies for presentations of individual and group projects.  
 Basic video editing using OpenShot video editor to cut and combine videos.
 Handbrake was used to compress video files into smaller file sizes to make them stream faster.
-Sqlite 3 & MySQL
+Sqlite3 & MySQL
 Figma (For the layout planning and prototyping of web applications)
 
 Some experience with ESP32 and Arduino programming and wiring of module boards. Creating graphics for the ST7735 1.8" Color TFT Display using the Adafruit GFX library.
