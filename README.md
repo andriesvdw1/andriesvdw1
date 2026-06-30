@@ -18,6 +18,8 @@ Handbrake was used to compress video files into smaller file sizes to make them 
 Sqlite3 & MySQL
 Figma (For the layout planning and prototyping of web applications)
 
+Currently learning Cypress Automation testing.
+
 Some experience with ESP32 and Arduino programming and wiring of module boards. Creating graphics for the ST7735 1.8" Color TFT Display using the Adafruit GFX library.
 
 Previously I worked as a security system builder and installer. During that role I learned about combining electronics to create a solution for intruder detection on plots, farms and residential areas. The system used infrared beams that needed to be aligned properly to detect the motion of intruders. An alarm siren sounded once an intruder was detected and an SMS was sent to either the customer or the security company that provides armed response to the perimeter.
