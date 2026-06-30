@@ -15,8 +15,8 @@ ReactJS, HTML5, CSS3, C#.NET, Python, Object Oriented Programming
 PowerPoint was frequently used during studies for presentations of individual and group projects.  
 Basic video editing using OpenShot video editor to cut and combine videos.
 Handbrake was used to compress video files into smaller file sizes to make them stream faster.
-Sqlite3 & MySQL
-Figma (For the layout planning and prototyping of web applications)
+Sqlite3 & MySQL for databases.
+Figma and Lunacy (For the layout planning and prototyping of web applications)
 
 Currently learning Cypress Automation testing.
 
