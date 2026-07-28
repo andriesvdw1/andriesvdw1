@@ -1,5 +1,5 @@
 ## Hi👋, I'm Andries van der Westhuizen
-# [CV document link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
+# [CV Document Link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
 
 I am currently a final year student in diploma of information technology at Belgium Campus ITversity.
 I am passionate about web development in ReactJS and software development in C#.NET.
