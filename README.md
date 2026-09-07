@@ -3,7 +3,7 @@
 
 I am currently a final year student in diploma of information technology at Belgium Campus ITversity.
 I am passionate about web development in ReactJS and software development in C#.NET.
-I am seeking an internship or job with a mentor opportunity at a company in or around the Kempton Park and Pretoria area for the year 2026.
+I am seeking an internship or job with a mentor opportunity at a company in or around the Kempton Park or Pretoria area for the year 2026.
 
 Tools I am familiar with include:
 Git and Github
