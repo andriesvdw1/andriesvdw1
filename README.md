@@ -1,40 +1,33 @@
 ## Hi👋, I'm Andries van der Westhuizen
 # [CV Document Link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
 
-I am currently a final year student in diploma of information technology at Belgium Campus ITversity.
-I am passionate about web development in ReactJS and software development in C#.NET.
-I am seeking an internship or job with a mentor opportunity at a company in or around the Kempton Park or Pretoria area for the year 2026.
+# About me:
+I am a final-year Diploma in Information Technology student at Belgium Campus ITversity, passionate about ReactJS web development and C#.NET software development. I am seeking an internship or entry-level role with mentorship opportunities in the Kempton Park or Pretoria areas for 2026.
 
-Tools I am familiar with include:
-Git and Github
-Visual Studio Code
-Visual Studio 2022 Community Edition
+## Technical Skills & Core Competencies
 
-Skills:
-ReactJS, HTML5, CSS3, C#.NET, Python, Object Oriented Programming  
-PowerPoint was frequently used during studies for presentations of individual and group projects.  
-Basic video editing using OpenShot video editor to cut and combine videos.
-Handbrake was used to compress video files into smaller file sizes to make them stream faster.
-Sqlite3 & MySQL for databases.
-Figma and Lunacy (For the layout planning and prototyping of web applications)
+Programming & Web Development: ReactJS, C#.NET, Python, Object-Oriented Programming (OOP), HTML5, CSS3
 
-Currently learning Cypress Automation testing and ASP.NET CORE Web API for .NET CORE 10.
+Databases: SQLite3, MySQL
 
-Some experience with ESP32 and Arduino programming and wiring of module boards. Creating graphics for the ST7735 1.8" Color TFT Display using the Adafruit GFX library.
+Frameworks & Learning Focus: ASP.NET Core Web API (.NET 10), Cypress Automation Testing
 
-Previously I worked as a security system builder and installer. During that role I learned about combining electronics to create a solution for intruder detection on plots, farms and residential areas. The system used infrared beams that needed to be aligned properly to detect the motion of intruders. An alarm siren sounded once an intruder was detected and an SMS was sent to either the customer or the security company that provides armed response to the perimeter.
+UI/UX & Prototyping: Figma, Lunacy (layout planning and prototyping)
 
-<!--
-**andriesvdw1/andriesvdw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & Electronics: ESP32 and Arduino programming, module board wiring, graphics creation for ST7735 1.8" Color TFT displays using the Adafruit GFX library
 
-Here are some ideas to get you started:
+## Tools & Software Proficiency:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Development Tools: Git, GitHub, Visual Studio Code, Visual Studio 2022 Community Edition
+
+Media & Productivity: OpenShot Video Editor (cutting and merging), Handbrake (video compression/optimization), Microsoft PowerPoint (project presentations)
+
+## Professional Experience:
+
+Security System Builder & Installer
+
+Designed and installed intruder detection solutions for residential, agricultural, and commercial properties.
+
+Configured and aligned long-range infrared motion detection beams.
+
+Integrated hardware systems to trigger local alarm sirens and automated SMS notifications to clients and armed response providers upon intrusion.
