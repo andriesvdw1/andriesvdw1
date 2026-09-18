@@ -1,5 +1,5 @@
 ## Andries van der Westhuizen Information Technology student.
-## [CV Document Link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
+## [CV Document Link](https://drive.google.com/file/d/16w8IDi1L3fTPHkyCRBwt0FXi4mrlDorr/view?usp=sharing)
 
 # About me:
 I am a final-year Diploma in Information Technology student at Belgium Campus ITversity, passionate about ReactJS web development and C#.NET software development. I am seeking an internship or entry-level role with mentorship opportunities in the Kempton Park or Pretoria areas for 2026.
