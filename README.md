@@ -18,10 +18,10 @@ Embedded Systems & Electronics: ESP32 and Arduino programming, module board wiri
 
 ## Tools & Software Proficiency:
 
-Development Tools:
+### Development Tools:
 Git, GitHub, Visual Studio Code, Visual Studio 2022 Community Edition
 
-Media & Productivity: 
+### Media & Productivity:
 OpenShot Video Editor (cutting and merging)
 Handbrake (video compression/optimization)
 Microsoft PowerPoint (project presentations)
