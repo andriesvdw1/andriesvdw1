@@ -1,4 +1,4 @@
-## Hi👋, I'm Andries van der Westhuizen
+## Andries van der Westhuizen Information Technology student.
 # [CV Document Link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
 
 # About me:
