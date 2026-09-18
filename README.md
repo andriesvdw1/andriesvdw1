@@ -35,3 +35,4 @@ Designed and installed intruder detection solutions for residential, agricultura
 Configured and aligned long-range infrared motion detection beams.
 
 Integrated hardware systems to trigger local alarm sirens and automated SMS notifications to clients and armed response providers upon intrusion.
+## [CV Document Link](https://drive.google.com/file/d/1b2HIATJxC8-xUTUn6lwInHLOluikT5Gi/view?usp=sharing)
