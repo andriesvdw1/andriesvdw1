@@ -10,7 +10,7 @@ Programming & Web Development: ReactJS, C#.NET, Python, Object-Oriented Programm
 
 Databases: SQLite3, MySQL
 
-Frameworks & Learning Focus: ASP.NET Core Web API (.NET 10), Cypress Automation Testing
+Frameworks & Learning Focus: ASP.NET Core Web API (.NET 10), Pytest testing.
 
 UI/UX & Prototyping: Figma, Lunacy (layout planning and prototyping)
 
